@@ -1,0 +1,21 @@
+text,category,urgency
+"The app crashes every time I upload a photo. I cannot finish my work today.",bug,high
+"I was charged twice for my subscription this month. Please refund one payment.",billing,high
+"It would be great if we could export reports to Excel.",feature_request,low
+"How do I add a new team member to my workspace?",other,low
+"Dark mode makes the text in the sidebar unreadable.",bug,medium
+"Our entire team is locked out since this morning. We have a client demo in an hour.",bug,high
+"Can you tell me whether the Pro plan includes API access?",billing,low
+"Please add Slack notifications for when a task is overdue.",feature_request,low
+"Exporting a CSV works, but the dates come out in the wrong timezone.",bug,medium
+"I want to cancel my account and get a receipt for my records.",billing,medium
+"Data from last Tuesday is missing from my dashboard. We need it for payroll.",bug,high
+"Is there a mobile app for Android?",other,low
+"The invoice total does not match the line items. Please check.",billing,medium
+"Would love a way to set custom fields on projects.",feature_request,low
+"Search returns no results for tasks I can see on my board.",bug,medium
+"Our login page shows a security warning about an expired certificate.",bug,high
+"Thanks for the quick help last week. Everything is working now.",other,low
+"I was billed for seats we removed last month. Need a correction.",billing,medium
+"Can the app work offline on a train?",feature_request,low
+"Notifications arrive hours late, so we miss customer messages.",bug,medium
